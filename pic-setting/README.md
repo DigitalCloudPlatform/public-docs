@@ -12,3 +12,7 @@
 |横屏转场|1920x1080|
 |竖屏转场|1080x1920|
 |logo|高度60宽度不限|
+
+
+
+> *[下载平台使用说明文档](https://pan.baidu.com/s/1WvTdggVGch_mhUhtWHSm2w)*
