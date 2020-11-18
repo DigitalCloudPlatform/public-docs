@@ -6,3 +6,4 @@
 ## 目录
 
 + [平台图片配置规格说明](pic-setting/README.md)
++ [平台使用说明文档下载](https://pan.baidu.com/s/1WvTdggVGch_mhUhtWHSm2w)
